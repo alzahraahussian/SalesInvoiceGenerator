@@ -1,0 +1,19 @@
+Invoice1Num
+{
+Invoice1Date (11/01/2022), Zahraa
+Item1Name, Item1Price, Count1
+Item2Name, Item2Price, Count2
+Item3Name, Item3Price, Count3
+.
+.
+.
+}
+Invoice2Num
+{
+Invoice2Date (12/02/2022), Zahraa
+Item1Name, Item1Price, Count1
+Item2Name, Item2Price, Count2
+.
+.
+. 
+}
